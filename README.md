@@ -16,6 +16,7 @@ The project entails comprehensive data analysis and querying techniques applied 
 
 
 The dataset utilized in this project pertains to AtliQ Hardwares, encompassing diverse aspects of consumer goods sales, inventory, and related metrics. 
+
 **Project Objectives**
 
 Analyzed consumer goods sales, inventory, and performance metrics.
