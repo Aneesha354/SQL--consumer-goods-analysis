@@ -1,4 +1,4 @@
-# SQL--consumer-goods-analysis
+# SQL--Consumer-Goods-Analysis
 **AtliQ Hardwares Consumer Goods Data Analytics SQL Project**
 
 
