@@ -5,6 +5,7 @@
 Welcome to the AtliQ Hardwares Consumer Goods Data Analytics Project repository.
 
 **Overview**
+
  The primary objective of this project is to address ten specific ad hoc requests through SQL queries, unveiling insights and patterns within the dataset.
 
 **Project Scope**
